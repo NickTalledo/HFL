@@ -30,9 +30,9 @@ const HomePage = () => {
               Vice&apos;s Nick Cupelli, who broke through with an impressive 86
               rushing yards and three rushing touchdowns. Despite the Bomb
               Squad&apos;s notable efforts, including standout performances from
-              Justin Kotowitz and Edin Hernandez, they couldn't clinch the win.
-              All in all, it was a day of intense competition, unexpected turns,
-              and commendable sportsmanship. Let&apos;s kick off Week 2!
+              Justin Kotowitz and Edin Hernandez, they couldn&apos;t clinch the
+              win. All in all, it was a day of intense competition, unexpected
+              turns, and commendable sportsmanship. Let&apos;s kick off Week 2!
             </p>
             <br />
           </div>
