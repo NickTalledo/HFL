@@ -3,17 +3,27 @@
 import { dStats } from "@/utils/dStats";
 import Dstats from "./Dstats";
 import Footer from "./Footer";
-
+import { useState } from "react";
 const Defense = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setIsOpen(!isOpen);
+  };
   return (
     <div>
       <div className="topnav">
-        <a href="/homepage">Home</a>
-        <a href="/offense">Offensive Stats</a>
-        <a className="active" href="/defense">
-          Defensive Stats
-        </a>
-        <a href="/about">About</a>
+        <button onClick={toggleMenu} className="hamburger">
+          ☰
+        </button>
+        <nav className={`navlinks ${isOpen ? "show" : ""}`}>
+          <a href="/homepage">Home</a>
+          <a href="/offense">Offensive Stats</a>
+          <a className="active" href="/defense">
+            Defensive Stats
+          </a>
+          <a href="/about">About</a>
+        </nav>
       </div>
       <p style={{ paddingLeft: "8%" }} className="h1">
         Defensive Stats

@@ -1,17 +1,27 @@
 "use client";
 import Footer from "./Footer";
 import React from "react";
-
+import { useState } from "react";
 const About = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setIsOpen(!isOpen);
+  };
   return (
     <div>
       <div className="topnav">
-        <a href="/homepage">Home</a>
-        <a href="/offense">Offensive Stats</a>
-        <a href="/defense">Defensive Stats</a>
-        <a className="active" href="/about">
-          About
-        </a>
+        <button onClick={toggleMenu} className="hamburger">
+          ☰
+        </button>
+        <nav className={`navlinks ${isOpen ? "show" : ""}`}>
+          <a href="/homepage">Home</a>
+          <a href="/offense">Offensive Stats</a>
+          <a href="/defense">Defensive Stats</a>
+          <a className="active" href="/about">
+            About
+          </a>
+        </nav>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 justify-items-center pt-10">
@@ -20,7 +30,7 @@ const About = () => {
             A little about us
           </p>
           <br />
-          <p style={{ paddingLeft: "8%" }}>
+          <p style={{ paddingLeft: "5%" }}>
             Welcome to our vibrant and passionate flag football league!
             We&apos;re a group of friends who decided to take our love for
             football to another level, creating an exciting space where we could

@@ -1,14 +1,27 @@
 "use client";
 
+import { useState } from "react";
+
 const Header = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setIsOpen(!isOpen);
+  };
+
   return (
     <div className="topnav">
-      <a className="active" href="/homepage">
-        Home
-      </a>
-      <a href="/offense">Offensive Stats</a>
-      <a href="/defense">Defensive Stats</a>
-      <a href="/about">About</a>
+      <button onClick={toggleMenu} className="hamburger">
+        ☰
+      </button>
+      <nav className={`navlinks ${isOpen ? "show" : ""}`}>
+        <a className="active" href="/homepage">
+          Home
+        </a>
+        <a href="/offense">Offensive Stats</a>
+        <a href="/defense">Defensive Stats</a>
+        <a href="/about">About</a>
+      </nav>
     </div>
   );
 };

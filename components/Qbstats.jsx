@@ -28,7 +28,7 @@ const Qbstats = ({ qbStats }) => {
             <th>Player</th>
             <th>
               <button onClick={() => handleSort("completions")}>
-                Completions{" "}
+                Comps{" "}
                 {sortKey === "completions" && (sortOrder === 1 ? "↓" : "↑")}
               </button>
             </th>
