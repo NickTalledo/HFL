@@ -50,7 +50,7 @@ const Ostats = ({ oStats }) => {
           {sortedStats.map(
             ({ team, player, receptions, yards, touchdowns }) => {
               return (
-                <tr>
+                <tr key={player}>
                   <td>{team}</td>
                   <td>{player}</td>
                   <td>{receptions}</td>

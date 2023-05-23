@@ -47,7 +47,7 @@ const Dstats = ({ dStats }) => {
         <tbody>
           {sortedStats.map(({ team, player, sacks, tackles, picks }) => {
             return (
-              <tr>
+              <tr key={player}>
                 <td>{team}</td>
                 <td>{player}</td>
                 <td>{sacks}</td>

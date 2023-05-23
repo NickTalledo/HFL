@@ -76,7 +76,7 @@ const Qbstats = ({ qbStats }) => {
               Ptouchdowns,
             }) => {
               return (
-                <tr>
+                <tr key={player}>
                   <td>{team}</td>
                   <td>{player}</td>
                   <td>{completions}</td>
