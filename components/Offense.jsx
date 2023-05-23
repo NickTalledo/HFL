@@ -1,8 +1,8 @@
 "use client";
 
+import { oStats } from "@/utils/oStats";
 import Footer from "./Footer";
 import Ostats from "./Ostats";
-import { oStats } from "@/utils/Ostats";
 import Qbstats from "./Qbstats";
 import { qbStats } from "@/utils/qbStats";
 
