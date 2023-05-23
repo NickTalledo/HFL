@@ -20,7 +20,7 @@ const About = () => {
             A little about us
           </p>
           <br />
-          <p style={{ paddingLeft: "10%" }}>
+          <p style={{ paddingLeft: "8%" }}>
             Welcome to our vibrant and passionate flag football league!
             We&apos;re a group of friends who decided to take our love for
             football to another level, creating an exciting space where we could
