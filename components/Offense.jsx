@@ -28,13 +28,13 @@ const Offense = () => {
         </nav>
       </div>
       <p style={{ paddingLeft: "8%" }} className="h1">
-        Quarterback Offensive Stats
+        Quarterback Stats
       </p>
       <br />
       <Qbstats qbStats={qbStats} />
       <br />
       <p style={{ paddingLeft: "8%" }} className="h1">
-        Receiver Offensive Stats
+        Receiver Stats
       </p>
       <br />
 
