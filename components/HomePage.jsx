@@ -21,18 +21,20 @@ const HomePage = () => {
               edge of their seats. The Redskins emerged victorious against the
               Bulls in a thrilling 71-50 finish. Their balanced team
               performance, with everyone giving their best, made a remarkable
-              difference on the field. Meanwhile, The Clan outplayed the Blue
-              Ballers 47-34, thanks to Matt Rossi&apos;s spectacular
-              performance. Rossi racked up an impressive 184 yards and five
-              touchdowns, truly dominating the field. The day ended with Miami
-              Vice outclassing the Bomb Squad 64-36 in a game that started off
-              slow but soon erupted into a high scoring affair. It was Miami
-              Vice&apos;s Nick Cupelli, who broke through with an impressive 86
-              rushing yards and three rushing touchdowns. Despite the Bomb
-              Squad&apos;s notable efforts, including standout performances from
-              Justin Kotowitz and Edin Hernandez, they couldn&apos;t clinch the
-              win. All in all, it was a day of intense competition, unexpected
-              turns, and commendable sportsmanship. Let&apos;s kick off Week 2!
+              difference on the field. <br /> <br />
+              Meanwhile, The Clan outplayed the Blue Ballers 47-34, thanks to
+              Matt Rossi&apos;s spectacular performance. Rossi racked up an
+              impressive 184 yards and five touchdowns, truly dominating the
+              field. <br /> <br />
+              The day ended with Miami Vice outclassing the Bomb Squad 64-36 in
+              a game that started off slow but soon erupted into a high scoring
+              affair. It was Miami Vice&apos;s Nick Cupelli, who broke through
+              with an impressive 86 rushing yards and three rushing touchdowns.
+              Despite the Bomb Squad&apos;s notable efforts, including standout
+              performances from Justin Kotowitz and Edin Hernandez, they
+              couldn&apos;t clinch the win. All in all, it was a day of intense
+              competition, unexpected turns, and commendable sportsmanship.
+              Let&apos;s kick off Week 2!
             </p>
             <br />
           </div>

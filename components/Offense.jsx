@@ -41,6 +41,7 @@ const Offense = () => {
       <Ostats oStats={oStats} />
       <br />
       <div style={{ borderTop: "3px solid black" }}></div>
+
       <Footer />
     </div>
   );

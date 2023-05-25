@@ -26,7 +26,7 @@
 
   .h2 {
     @apply text-4xl;
-    padding-left: 28%;
+    padding-left: 25%;
   }
 
   .h3 {
@@ -102,11 +102,10 @@
   }
 
   .footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transform: translateX(-55px);
+    @apply flex-none;
+    margin-left: 60px;
   }
+
   .flex-container {
     display: flex;
     justify-content: space-between;
@@ -136,6 +135,9 @@
       sans-serif;
   }
 
+  span {
+    @apply text-3xl;
+  }
   table {
     width: 40%;
     margin-left: 32%;
@@ -182,37 +184,12 @@
 
     table {
       width: 50%;
-      margin-left: 30%;
-      font-size: 0.8em;
-    }
-  }
-
-  @media (max-width: 1000px) {
-    .flex-container {
-      flex-direction: column;
-    }
-
-    .text-container {
-      padding-left: 2%;
-    }
-
-    .empty-container {
-      flex: 0;
-    }
-
-    .h2 {
-      padding-left: 39%;
-      font-size: 1.2em;
-    }
-
-    table {
-      width: 50%;
-      margin-left: 30%;
+      margin-left: 28%;
       font-size: 0.8em;
     }
 
     .table2 {
-      margin-left: 10%;
+      margin-left: 6%;
     }
   }
 
@@ -230,17 +207,26 @@
     }
 
     .h2 {
-      padding-left: 20%;
+      padding-left: 15%;
       font-size: 1.2em;
     }
 
     table {
       width: 50%;
-      margin-left: 25%;
+      margin-left: 20%;
       font-size: 0.8em;
     }
     .table2 {
-      margin-left: 10%;
+      margin-left: 5%;
+    }
+
+    .footer {
+      margin-right: 50px;
+      margin-left: 50px;
+    }
+
+    .h1 {
+      @apply text-3xl;
     }
   }
 }
