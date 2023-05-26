@@ -124,8 +124,8 @@ const HomePage = () => {
                 <tr>
                   <td>Week 2</td>
                   <td>
-                    Miami Vice vs Bulls <br /> Redskins vs Blue Ballers <br />{" "}
                     The Clan vs Bomb Squad
+                    <br /> Redskins vs Blue Ballers <br /> Miami Vice vs Bulls
                   </td>
                   <td>
                     TBD <br /> TBD <br /> TBD
