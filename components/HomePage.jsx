@@ -16,25 +16,26 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
-              Wrapping up Week 1, it was an exciting day for flag football
-              enthusiasts, with high scoring matches that kept everyone on the
-              edge of their seats. The Redskins emerged victorious against the
-              Bulls in a thrilling 71-50 finish. Their balanced team
-              performance, with everyone giving their best, made a remarkable
-              difference on the field. <br /> <br />
-              Meanwhile, The Clan outplayed the Blue Ballers 47-34, thanks to
-              Matt Rossi&apos;s spectacular performance. Rossi racked up an
-              impressive 184 yards and five touchdowns, truly dominating the
-              field. <br /> <br />
-              The day ended with Miami Vice outclassing the Bomb Squad 64-36 in
-              a game that started off slow but soon erupted into a high scoring
-              affair. It was Miami Vice&apos;s Nick Cupelli, who broke through
-              with an impressive 86 rushing yards and three rushing touchdowns.
-              Despite the Bomb Squad&apos;s notable efforts, including standout
-              performances from Justin Kotowitz and Edin Hernandez, they
-              couldn&apos;t clinch the win. All in all, it was a day of intense
-              competition, unexpected turns, and commendable sportsmanship.
-              Let&apos;s kick off Week 2!
+              Week 2 down, The Clan triumphed over Bomb Squad in a thrilling
+              match, ending with a score of 64-51. The game was a nail-biter,
+              with both teams showcasing their skills and scoring drive after
+              drive. The decisive moment came when Andrew Rossi intercepted a
+              pass, scoring a pick-six and securing the victory for The Clan.
+              Although Bomb Squad showed remarkable improvement from last week,
+              they were unable to overcome the now undefeated Clan. <br />
+              <br /> In a stunning upset, the Blue Ballers defeated the
+              top-ranked team, the Redskins, with a score of 52-38. Their
+              defense proved to be air tight, holding the previous week&apos;s
+              highest-scoring team to become the lowest-scoring this week.{" "}
+              <br /> <br />
+              Another undefeated team emerged as Miami Vice secured a win
+              against the Bulls, with a final score of 61-52. Sergio had a
+              breakout game, amassing an impressive 144 yards and 3 touchdowns
+              on offense, and adding a late-game pick-six to seal the victory.
+              Although having a spectacular game, Nick Cupelli unfortunately
+              suffered an injury towards the end of the game, but Perlongo was
+              able to step up as temporary quarterback and ensured the win. Time
+              to see what week 3 holds!
             </p>
             <br />
           </div>
@@ -56,39 +57,39 @@ const HomePage = () => {
                 <tbody>
                   <tr>
                     <td>Miami Vice</td>
-                    <td>1-0</td>
-                    <td>64</td>
-                    <td>36</td>
-                  </tr>
-                  <tr>
-                    <td>Redskins</td>
-                    <td>1-0</td>
-                    <td>71</td>
-                    <td>50</td>
+                    <td>2-0</td>
+                    <td>125</td>
+                    <td>88</td>
                   </tr>
                   <tr>
                     <td>The Clan</td>
-                    <td>1-0</td>
-                    <td>47</td>
-                    <td>34</td>
+                    <td>2-0</td>
+                    <td>111</td>
+                    <td>85</td>
                   </tr>
                   <tr>
-                    <td>Bulls</td>
-                    <td>0-1</td>
-                    <td>50</td>
-                    <td>71</td>
+                    <td>Redskins</td>
+                    <td>1-1</td>
+                    <td>109</td>
+                    <td>103</td>
                   </tr>
                   <tr>
                     <td>Blue Ballers</td>
-                    <td>0-1</td>
-                    <td>34</td>
-                    <td>47</td>
+                    <td>1-1</td>
+                    <td>86</td>
+                    <td>85</td>
+                  </tr>
+                  <tr>
+                    <td>Bulls</td>
+                    <td>0-2</td>
+                    <td>104</td>
+                    <td>132</td>
                   </tr>
                   <tr>
                     <td>Bomb Squad</td>
-                    <td>0-1</td>
-                    <td>36</td>
-                    <td>64</td>
+                    <td>0-2</td>
+                    <td>87</td>
+                    <td>128</td>
                   </tr>
                 </tbody>
               </table>
@@ -128,7 +129,7 @@ const HomePage = () => {
                     <br /> Redskins vs Blue Ballers <br /> Miami Vice vs Bulls
                   </td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    64-51 <br /> 38-52 <br /> 61-52
                   </td>
                 </tr>
                 <tr>
