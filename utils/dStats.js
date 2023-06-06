@@ -100,7 +100,7 @@ export const dStats = [
     picks: 1,
   },
   {
-    team: "Blue Ballers",
+    team: "Bomb Squad",
     player: "Nick Talledo",
     sacks: 0,
     tackles: 8,
@@ -114,7 +114,7 @@ export const dStats = [
     picks: 3,
   },
   {
-    team: "Bomb Squad",
+    team: "Blue Ballers",
     player: "Andrew Aspromonte",
     sacks: 0,
     tackles: 9,

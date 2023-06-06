@@ -16,6 +16,23 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
+              BREAKING NEWS: Our first trade of the season has been made! After
+              some inner disputes, Nick Talledo has been traded to the Bomb
+              Squad! The Blue Ballers will receive Andrew Aspromonte. Many are
+              saying this trade is a huge win for Bomb Squad while Blue Ballers
+              got the short end of the stick. We asked some players their views
+              on this, here are their responses: "Listen, at a point, enough is
+              enough. I&apos;m sick of playing with mediocrity" - Nick Talledo
+              <br />
+              "He just isn&apos;s a team player anymore, we had to get rid of
+              him" - Nicky
+              <br />
+              "Get that camera out of my f**king face" - Josh Soler
+              <br />
+              "Let&apos;s f**king gooo" - Stephen Aspromonte
+              <br />
+              "Wait what&apos;s happening?" - Andrew Aspromonte
+              <br /> <br />
               Welcome to Week 3 of our league! The excitement continues as the
               Blue Ballers pulled off another stunning victory, defeating Miami
               Vice with a close score of 50-44. Once again, they managed to

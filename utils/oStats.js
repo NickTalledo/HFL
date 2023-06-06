@@ -100,7 +100,7 @@ export const oStats = [
     touchdowns: 2,
   },
   {
-    team: "Blue Ballers",
+    team: "Bomb Squad",
     player: "Nick Talledo",
     receptions: 13,
     yards: 171,
@@ -114,7 +114,7 @@ export const oStats = [
     touchdowns: 3,
   },
   {
-    team: "Bomb Squad",
+    team: "Blue Ballers",
     player: "Andrew Aspromonte",
     receptions: 8,
     yards: 80,
