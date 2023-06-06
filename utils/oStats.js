@@ -39,16 +39,16 @@ export const oStats = [
   {
     team: "Bulls",
     player: "Ross",
-    receptions: 28,
-    yards: 239,
-    touchdowns: 7,
+    receptions: 35,
+    yards: 359,
+    touchdowns: 10,
   },
   {
     team: "Bulls",
     player: "Kevin Wu",
-    receptions: 4,
-    yards: 61,
-    touchdowns: 1,
+    receptions: 3,
+    yards: 97,
+    touchdowns: 2,
   },
   {
     team: "Bomb Squad",
@@ -123,9 +123,9 @@ export const oStats = [
   {
     team: "Bulls",
     player: "Devin",
-    receptions: 3,
-    yards: 19,
-    touchdowns: 1,
+    receptions: 1,
+    yards: 20,
+    touchdowns: 2,
   },
   {
     team: "Bulls",
@@ -207,8 +207,8 @@ export const oStats = [
   {
     team: "Bulls",
     player: "Klevik",
-    receptions: 18,
-    yards: 189,
+    receptions: 19,
+    yards: 197,
     touchdowns: 1,
   },
   {
