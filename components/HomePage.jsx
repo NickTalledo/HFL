@@ -16,26 +16,27 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
-              Week 2 down, The Clan triumphed over Bomb Squad in a thrilling
-              match, ending with a score of 64-51. The game was a nail-biter,
-              with both teams showcasing their skills and scoring drive after
-              drive. The decisive moment came when Andrew Rossi intercepted a
-              pass, scoring a pick-six and securing the victory for The Clan.
-              Although Bomb Squad showed remarkable improvement from last week,
-              they were unable to overcome the now undefeated Clan. <br />
-              <br /> In a stunning upset, the Blue Ballers defeated the
-              top-ranked team, the Redskins, with a score of 52-38. Their
-              defense proved to be air tight, holding the previous week&apos;s
-              highest-scoring team to become the lowest-scoring this week.{" "}
+              Welcome to Week 3 of our league! The excitement continues as the
+              Blue Ballers pulled off another stunning victory, defeating Miami
+              Vice with a close score of 50-44. Once again, they managed to
+              topple the number 1 ranked team. Josh Soler was in exceptional
+              form, accumulating an impressive 4 sacks throughout the game. This
+              match marked the first game of the season to go into overtime,
+              adding an extra level of intensity.
               <br /> <br />
-              Another undefeated team emerged as Miami Vice secured a win
-              against the Bulls, with a final score of 61-52. Sergio had a
-              breakout game, amassing an impressive 144 yards and 3 touchdowns
-              on offense, and adding a late-game pick-six to seal the victory.
-              Although having a spectacular game, Nick Cupelli unfortunately
-              suffered an injury towards the end of the game, but Perlongo was
-              able to step up as temporary quarterback and ensured the win. Time
-              to see what week 3 holds!
+              In another remarkable turn of events, the Bulls dominated The
+              Clan, winning with a commanding score of 47-21. Despite initially
+              being up 14-0, The Clan struggled to score for the remainder of
+              the game, thanks to the Bulls&apos;s formidable defense.
+              <br /> <br />
+              The Bomb Squad also emerged victorious in a high-scoring shootout
+              against the Redskins, triumphing with a final score of 75-62.
+              Stephen Aspromonte delivered a remarkable performance, throwing
+              for 364 yards, rushing for 71, and impressively avoiding any
+              interceptions. The Redskins found it challenging to halt the Bomb
+              Squad&apos;s relentless offense. With Week 3 in the books,
+              let&apos;s eagerly await the thrills and surprises that Week 4 has
+              in store for us!
             </p>
             <br />
           </div>
@@ -57,39 +58,39 @@ const HomePage = () => {
                 <tbody>
                   <tr>
                     <td>Miami Vice</td>
-                    <td>2-0</td>
-                    <td>125</td>
-                    <td>88</td>
-                  </tr>
-                  <tr>
-                    <td>The Clan</td>
-                    <td>2-0</td>
-                    <td>111</td>
-                    <td>85</td>
-                  </tr>
-                  <tr>
-                    <td>Redskins</td>
-                    <td>1-1</td>
-                    <td>109</td>
-                    <td>103</td>
+                    <td>2-1</td>
+                    <td>169</td>
+                    <td>138</td>
                   </tr>
                   <tr>
                     <td>Blue Ballers</td>
-                    <td>1-1</td>
-                    <td>86</td>
-                    <td>85</td>
+                    <td>2-1</td>
+                    <td>136</td>
+                    <td>129</td>
                   </tr>
                   <tr>
-                    <td>Bulls</td>
-                    <td>0-2</td>
-                    <td>104</td>
+                    <td>The Clan</td>
+                    <td>2-1</td>
+                    <td>132</td>
                     <td>132</td>
                   </tr>
                   <tr>
+                    <td>Bulls</td>
+                    <td>1-2</td>
+                    <td>151</td>
+                    <td>153</td>
+                  </tr>
+                  <tr>
+                    <td>Redskins</td>
+                    <td>1-2</td>
+                    <td>171</td>
+                    <td>178</td>
+                  </tr>
+                  <tr>
                     <td>Bomb Squad</td>
-                    <td>0-2</td>
-                    <td>87</td>
-                    <td>128</td>
+                    <td>1-2</td>
+                    <td>162</td>
+                    <td>190</td>
                   </tr>
                 </tbody>
               </table>
@@ -135,11 +136,11 @@ const HomePage = () => {
                 <tr>
                   <td>Week 3</td>
                   <td>
-                    Blue Ballers vs Bomb Squad <br /> Bulls vs The Clan <br />{" "}
-                    Miami Vice vs Redskins
+                    Blue Ballers vs Miami Vice <br /> Bulls vs The Clan <br />{" "}
+                    Bomb Squad vs Redskins
                   </td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    50-44 <br /> 47-21 <br /> 75-62
                   </td>
                 </tr>
                 <tr>

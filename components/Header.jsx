@@ -11,7 +11,7 @@ const Header = () => {
 
   return (
     <div className="topnav">
-      <button onClick={toggleMenu} className="hamburger" color="white">
+      <button onClick={toggleMenu} className="hamburger">
         ☰
       </button>
       <nav className={`navlinks ${isOpen ? "show" : ""}`}>
