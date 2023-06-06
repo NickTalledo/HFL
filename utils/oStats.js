@@ -123,7 +123,7 @@ export const oStats = [
   {
     team: "Bulls",
     player: "Devin",
-    receptions: 1,
+    receptions: 2,
     yards: 20,
     touchdowns: 2,
   },
