@@ -22,17 +22,17 @@ const HomePage = () => {
               saying this trade is a huge win for Bomb Squad while Blue Ballers
               got the short end of the stick. We asked some players their views
               on this, here are their responses:
-              <br /> "Listen, at a point, enough is enough. I&apos;m sick of
-              playing with mediocrity" - Nick Talledo
+              <br /> 'Listen, at a point, enough is enough. I&apos;m sick of
+              playing with mediocrity' - Nick Talledo
               <br />
-              "He just isn&apos;t a team player anymore, we had to get rid of
-              him" - Nicky
+              'He just isn&apos;t a team player anymore, we had to get rid of
+              him' - Nicky
               <br />
-              "Get that camera out of my f**king face" - Josh Soler
+              'Get that camera out of my f**king face' - Josh Soler
               <br />
-              "Let&apos;s f**king gooo" - Stephen Aspromonte
+              'Let&apos;s f**king gooo' - Stephen Aspromonte
               <br />
-              "Wait what&apos;s happening?" - Andrew Aspromonte
+              'Wait what&apos;s happening?' - Andrew Aspromonte
               <br /> <br />
               Welcome to Week 3 of our league! The excitement continues as the
               Blue Ballers pulled off another stunning victory, defeating Miami
