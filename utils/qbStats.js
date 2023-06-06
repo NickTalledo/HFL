@@ -27,7 +27,7 @@ export const qbStats = [
     completions: 107,
     Ryards: 131,
     Pyards: 1069,
-    picks: 3,
+    picks: 6,
     Rtouchdowns: 0,
     Ptouchdowns: 15,
   },

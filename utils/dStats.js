@@ -251,7 +251,7 @@ export const dStats = [
     player: "Redbull",
     sacks: 1,
     tackles: 8,
-    picks: 2,
+    picks: 3,
   },
   {
     team: "Blue Ballers",
