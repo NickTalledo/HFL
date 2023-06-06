@@ -25,7 +25,7 @@ const HomePage = () => {
               <br /> "Listen, at a point, enough is enough. I&apos;m sick of
               playing with mediocrity" - Nick Talledo
               <br />
-              "He just isn&apos;s a team player anymore, we had to get rid of
+              "He just isn&apos;t a team player anymore, we had to get rid of
               him" - Nicky
               <br />
               "Get that camera out of my f**king face" - Josh Soler
