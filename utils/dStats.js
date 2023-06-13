@@ -41,7 +41,7 @@ export const dStats = [
     player: "Ross",
     sacks: 1,
     tackles: 16,
-    picks: 0,
+    picks: 1,
   },
   {
     team: "Bulls",
@@ -132,7 +132,7 @@ export const dStats = [
     player: "Ryan",
     sacks: 0,
     tackles: 13,
-    picks: 2,
+    picks: 3,
   },
   {
     team: "Bomb Squad",
@@ -251,7 +251,7 @@ export const dStats = [
     player: "Redbull",
     sacks: 1,
     tackles: 9,
-    picks: 3,
+    picks: 4,
   },
   {
     team: "Blue Ballers",
