@@ -69,7 +69,7 @@ export const dStats = [
     player: "Danny Gonzo",
     sacks: 0,
     tackles: 6,
-    picks: 6,
+    picks: 7,
   },
   {
     team: "The Clan",
