@@ -18,6 +18,7 @@ const Defense = () => {
         </button>
         <nav className={`navlinks ${isOpen ? "show" : ""}`}>
           <a href="/homepage">Home</a>
+          <a href="/news">News</a>
           <a href="/offense">Offensive Stats</a>
           <a className="active" href="/defense">
             Defensive Stats
@@ -27,6 +28,9 @@ const Defense = () => {
       </div>
       <p style={{ paddingLeft: "8%" }} className="h1">
         Defensive Stats
+      </p>
+      <p style={{ paddingLeft: "8%" }}>
+        Click on the titles of the stats to sort them!
       </p>
       <br />
       <Dstats dStats={dStats} />

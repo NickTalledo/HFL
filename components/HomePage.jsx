@@ -16,45 +16,28 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
-              BREAKING NEWS: Our first trade of the season has been made! After
-              some inner disputes, Nick Talledo has been traded to the Bomb
-              Squad! The Blue Ballers will receive Andrew Aspromonte. Many are
-              saying this trade is a huge win for Bomb Squad while Blue Ballers
-              got the short end of the stick. We asked some players their views
-              on this, here are their responses:
-              <br /> &quot;Listen, at a point, enough is enough. I&apos;m sick
-              of playing with mediocrity&quot; - Nick Talledo
-              <br />
-              &quot;He just isn&apos;t a team player anymore, we had to get rid
-              of him&quot; - Nicky
-              <br />
-              &quot;Get that camera out of my f**king face&quot; - Josh Soler
-              <br />
-              &quot;Let&apos;s f**king gooo&quot; - Stephen Aspromonte
-              <br />
-              &quot;Wait what&apos;s happening?&quot; - Andrew Aspromonte
+              Welcome to Week 4 of our thrilling league! The day started off
+              with an impressive victory for the Bulls, who defeated the
+              Redskins with a decisive score of 47-25. It was a game filled with
+              interceptions, and unfortunately for the Redskins, they
+              couldn&apos;t overcome this challenge. The Bulls showcased their
+              top-ranked defense, demonstrating that a strong defense can indeed
+              win games.
               <br /> <br />
-              Welcome to Week 3 of our league! The excitement continues as the
-              Blue Ballers pulled off another stunning victory, defeating Miami
-              Vice with a close score of 50-44. Once again, they managed to
-              topple the number 1 ranked team. Josh Soler was in exceptional
-              form, accumulating an impressive 4 sacks throughout the game. This
-              match marked the first game of the season to go into overtime,
-              adding an extra level of intensity.
+              In another exciting match, the Blue Ballers triumphed over the
+              Bomb Squad with a dominant score of 56-34. With Danny Gonzo
+              stepping in as quarterback, the Blue Ballers experienced a
+              significant upgrade. Danny Gonzo proved to be relentless on both
+              offense and defense, leading the team to a stellar performance.
               <br /> <br />
-              In another remarkable turn of events, the Bulls dominated The
-              Clan, winning with a commanding score of 47-21. Despite initially
-              being up 14-0, The Clan struggled to score for the remainder of
-              the game, thanks to the Bulls&apos;s formidable defense.
-              <br /> <br />
-              The Bomb Squad also emerged victorious in a high-scoring shootout
-              against the Redskins, triumphing with a final score of 75-62.
-              Stephen Aspromonte delivered a remarkable performance, throwing
-              for 364 yards, rushing for 71, and impressively avoiding any
-              interceptions. The Redskins found it challenging to halt the Bomb
-              Squad&apos;s relentless offense. With Week 3 in the books,
-              let&apos;s eagerly await the thrills and surprises that Week 4 has
-              in store for us!
+              Meanwhile, The Clan initially had the upper hand against Miami
+              Vice, but as the game progressed, Miami Vice made an impressive
+              comeback. However, in a dramatic ending, Miami Vice attempted a
+              touchdown and a two-point conversion to secure the win. The
+              Clan&apos;s defense stepped up and successfully stopped the
+              conversion, ultimately winning the game with a close score of
+              53-52. Week 4 has certainly delivered exciting and unpredictable
+              moments. Stay tuned as the league continues to unfold!
             </p>
             <br />
           </div>
@@ -75,40 +58,40 @@ const HomePage = () => {
                 </thead>
                 <tbody>
                   <tr>
-                    <td>Miami Vice</td>
-                    <td>2-1</td>
-                    <td>169</td>
-                    <td>138</td>
+                    <td>The Clan</td>
+                    <td>3-1</td>
+                    <td>185</td>
+                    <td>184</td>
                   </tr>
                   <tr>
                     <td>Blue Ballers</td>
-                    <td>2-1</td>
-                    <td>136</td>
-                    <td>129</td>
+                    <td>3-1</td>
+                    <td>170</td>
+                    <td>185</td>
                   </tr>
                   <tr>
-                    <td>The Clan</td>
-                    <td>2-1</td>
-                    <td>132</td>
-                    <td>132</td>
+                    <td>Miami Vice</td>
+                    <td>2-2</td>
+                    <td>221</td>
+                    <td>191</td>
                   </tr>
                   <tr>
                     <td>Bulls</td>
-                    <td>1-2</td>
-                    <td>151</td>
-                    <td>153</td>
-                  </tr>
-                  <tr>
-                    <td>Redskins</td>
-                    <td>1-2</td>
-                    <td>171</td>
+                    <td>2-2</td>
+                    <td>198</td>
                     <td>178</td>
                   </tr>
                   <tr>
+                    <td>Redskins</td>
+                    <td>1-3</td>
+                    <td>196</td>
+                    <td>225</td>
+                  </tr>
+                  <tr>
                     <td>Bomb Squad</td>
-                    <td>1-2</td>
-                    <td>162</td>
-                    <td>190</td>
+                    <td>1-3</td>
+                    <td>196</td>
+                    <td>225</td>
                   </tr>
                 </tbody>
               </table>
@@ -168,14 +151,14 @@ const HomePage = () => {
                     Miami Vice vs The Clan
                   </td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    25-47 <br /> 56-34 <br /> 52-53
                   </td>
                 </tr>
                 <tr>
                   <td>Week 5</td>
                   <td>
-                    Bulls vs Bomb Squad <br /> The Clan vs Redskins <br /> Miami
-                    Vice vs Blue Ballers
+                    Bomb Squad vs The Clan <br /> Redskins vs Miami Vice <br />{" "}
+                    Bulls vs Blue Ballers
                   </td>
                   <td>
                     TBD <br /> TBD <br /> TBD

@@ -18,6 +18,7 @@ const Header = () => {
         <a className="active" href="/homepage">
           Home
         </a>
+        <a href="/news">News</a>
         <a href="/offense">Offensive Stats</a>
         <a href="/defense">Defensive Stats</a>
         <a href="/about">About</a>

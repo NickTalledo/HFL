@@ -20,6 +20,7 @@ const Offense = () => {
         </button>
         <nav className={`navlinks ${isOpen ? "show" : ""}`}>
           <a href="/homepage">Home</a>
+          <a href="/news">News</a>
           <a className="active" href="/offense">
             Offensive Stats
           </a>
@@ -30,11 +31,17 @@ const Offense = () => {
       <p style={{ paddingLeft: "8%" }} className="h1">
         Quarterback Stats
       </p>
+      <p style={{ paddingLeft: "8%" }}>
+        Click on the titles of the stats to sort them!
+      </p>
       <br />
       <Qbstats qbStats={qbStats} />
       <br />
       <p style={{ paddingLeft: "8%" }} className="h1">
         Receiver Stats
+      </p>
+      <p style={{ paddingLeft: "8%" }}>
+        Click on the titles of the stats to sort them!
       </p>
       <br />
 

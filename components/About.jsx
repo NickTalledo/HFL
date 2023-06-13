@@ -16,6 +16,7 @@ const About = () => {
         </button>
         <nav className={`navlinks ${isOpen ? "show" : ""}`}>
           <a href="/homepage">Home</a>
+          <a href="/news">News</a>
           <a href="/offense">Offensive Stats</a>
           <a href="/defense">Defensive Stats</a>
           <a className="active" href="/about">
