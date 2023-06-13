@@ -91,7 +91,7 @@ const HomePage = () => {
                     <td>Bomb Squad</td>
                     <td>1-3</td>
                     <td>196</td>
-                    <td>225</td>
+                    <td>246</td>
                   </tr>
                 </tbody>
               </table>
