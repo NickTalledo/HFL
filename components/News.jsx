@@ -33,7 +33,7 @@ const News = () => {
         <p>
           TRADE ALERT 6//12/2023: A second trade has been made! Andrew Gonzo and
           Nico have been traded from the Redskins to Miami Vice for Sergio and
-          Nico. Many players though the trade was a prank and were not happy
+          Deni. Many players though the trade was a prank and were not happy
           with it being real. Some say the league is in shambles with Miami Vice
           trying to build a super team and with the Redskins seeming to give up.
           Let us go to some of the players and see what they are saying:

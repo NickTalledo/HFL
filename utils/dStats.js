@@ -62,7 +62,7 @@ export const dStats = [
     player: "Sergio Rigau",
     sacks: 0,
     tackles: 16,
-    picks: 4,
+    picks: 5,
   },
   {
     team: "Blue Ballers",
