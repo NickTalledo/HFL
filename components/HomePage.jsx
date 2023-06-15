@@ -200,6 +200,32 @@ const HomePage = () => {
                     TBD <br /> TBD <br /> TBD
                   </td>
                 </tr>
+                <tr>
+                  <td>Playoffs 1</td>
+                  <td>
+                    1st seed <br /> 2nd seed vs 3rd seed <br /> 4th seed vs 5th
+                    seed
+                  </td>
+                  <td>
+                    BYE <br /> TBD <br /> TBD
+                  </td>
+                </tr>
+                <tr>
+                  <td>Playoffs 2</td>
+                  <td>
+                    1st seed vs 4th/5th seed winner <br /> 2nd/3rd seed winner
+                  </td>
+                  <td>
+                    TBD <br /> BYE
+                  </td>
+                </tr>
+                <tr>
+                  <td>Championship</td>
+                  <td>TBD</td>
+                  <td>
+                    TBD <br />
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
