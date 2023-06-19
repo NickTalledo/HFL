@@ -16,28 +16,36 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
-              Welcome to Week 4 of our thrilling league! The day started off
-              with an impressive victory for the Bulls, who defeated the
-              Redskins with a decisive score of 47-25. It was a game filled with
-              interceptions, and unfortunately for the Redskins, they
-              couldn&apos;t overcome this challenge. The Bulls showcased their
-              top-ranked defense, demonstrating that a strong defense can indeed
-              win games.
-              <br /> <br />
-              In another exciting match, the Blue Ballers triumphed over the
-              Bomb Squad with a dominant score of 56-34. With Danny Gonzo
-              stepping in as quarterback, the Blue Ballers experienced a
-              significant upgrade. Danny Gonzo proved to be relentless on both
-              offense and defense, leading the team to a stellar performance.
-              <br /> <br />
-              Meanwhile, The Clan initially had the upper hand against Miami
-              Vice, but as the game progressed, Miami Vice made an impressive
-              comeback. However, in a dramatic ending, Miami Vice attempted a
-              touchdown and a two-point conversion to secure the win. The
-              Clan&apos;s defense stepped up and successfully stopped the
-              conversion, ultimately winning the game with a close score of
-              53-52. Week 4 has certainly delivered exciting and unpredictable
-              moments. Stay tuned as the league continues to unfold!
+              Week 5 of our league provided some intense matchups and surprising
+              outcomes. The first game featured a low-scoring battle between
+              Bomb Squad and The Clan, with The Clan emerging victorious with a
+              score of 39-25. Nick Venditti delivered an outstanding
+              performance, amassing 170 yards and scoring 3 touchdowns,
+              showcasing his exceptional skills. The Clan now boasts the most
+              wins, improving their record to 4-1 and solidifying their position
+              as a top contender.
+              <br />
+              <br />
+              In the second game, the Blue Ballers and the Bulls faced off. The
+              Blue Ballers had a promising start, leading 26-14 at halftime.
+              However, the Bulls staged an incredible comeback in the second
+              half, scoring 45 unanswered points and securing a dominant victory
+              with a final score of 59-26. The Bulls&apos; impressive
+              performance extended their winning streak to three games,
+              overcoming their initial two losses and showcasing their
+              resilience.
+              <br />
+              <br />
+              The final game of Week 5 featured the new Miami Vice against the
+              Redskins. It turned out to be a complete blowout, with the Miami
+              Vice displaying relentless offense and emerging victorious with an
+              astonishing final score of 78-46. Their remarkable offensive
+              display marked the highest scoring performance of the season thus
+              far. Meanwhile, the Redskins faced challenges and seemed to be
+              struggling as a team. Week 5 brought excitement, unexpected
+              outcomes, and notable performances. The league dynamics continue
+              to shift as some teams rise while others face setbacks. Stay tuned
+              for more thrilling matchups in the upcoming weeks!
             </p>
             <br />
           </div>
@@ -59,39 +67,39 @@ const HomePage = () => {
                 <tbody>
                   <tr>
                     <td>The Clan</td>
-                    <td>3-1</td>
-                    <td>185</td>
-                    <td>184</td>
-                  </tr>
-                  <tr>
-                    <td>Blue Ballers</td>
-                    <td>3-1</td>
-                    <td>170</td>
-                    <td>185</td>
+                    <td>4-1</td>
+                    <td>224</td>
+                    <td>209</td>
                   </tr>
                   <tr>
                     <td>Miami Vice</td>
-                    <td>2-2</td>
-                    <td>221</td>
-                    <td>191</td>
+                    <td>3-2</td>
+                    <td>299</td>
+                    <td>237</td>
                   </tr>
                   <tr>
                     <td>Bulls</td>
-                    <td>2-2</td>
-                    <td>198</td>
-                    <td>178</td>
+                    <td>3-2</td>
+                    <td>257</td>
+                    <td>204</td>
+                  </tr>
+                  <tr>
+                    <td>Blue Ballers</td>
+                    <td>3-2</td>
+                    <td>196</td>
+                    <td>244</td>
                   </tr>
                   <tr>
                     <td>Redskins</td>
-                    <td>1-3</td>
-                    <td>196</td>
-                    <td>225</td>
+                    <td>1-4</td>
+                    <td>241</td>
+                    <td>303</td>
                   </tr>
                   <tr>
                     <td>Bomb Squad</td>
-                    <td>1-3</td>
-                    <td>196</td>
-                    <td>246</td>
+                    <td>1-4</td>
+                    <td>221</td>
+                    <td>285</td>
                   </tr>
                 </tbody>
               </table>
@@ -157,11 +165,12 @@ const HomePage = () => {
                 <tr>
                   <td>Week 5</td>
                   <td>
-                    Bomb Squad vs The Clan <br /> Redskins vs Miami Vice <br />{" "}
-                    Bulls vs Blue Ballers
+                    Bomb Squad vs The Clan <br /> Bulls vs Blue Ballers <br />{" "}
+                    Redskins vs Miami Vice
                   </td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    25-39
+                    <br /> 59-26 <br /> 46-78
                   </td>
                 </tr>
                 <tr>
