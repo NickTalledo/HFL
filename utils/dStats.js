@@ -223,7 +223,7 @@ export const dStats = [
     player: "Nick Cupelli",
     sacks: 0,
     tackles: 33,
-    picks: 0,
+    picks: 1,
   },
   {
     team: "Blue Ballers",
