@@ -131,7 +131,7 @@ export const dStats = [
     team: "Bulls",
     player: "Ryan",
     sacks: 0,
-    tackles: 13,
+    tackles: 24,
     picks: 3,
   },
   {
