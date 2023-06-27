@@ -31,6 +31,38 @@ const News = () => {
       <br />
       <div className="news-container">
         <p>
+          TRADE ALERT 6/27/2023: Another trade of the season has gone through.
+          Adrian Rugova from Miami Vice traded to Blue Ballers for Dean. It
+          looks like everyone wants off the crumbling Blue Ballers even with
+          their decent record. Here is what we are hearing:
+          <br />
+          &quot;Talledo jumped the gun but I should have left with him&quot; -
+          Dean
+          <br />
+          &quot;Not surprised to be honest&quot; - Nicky
+          <br />
+          &quot;No one is safe&quot; - Nick Cupelli
+          <br />
+          &quot;Whatever man, I&apos;m never leaving my team. We don&apos;t need
+          quitters&quot; - Danny Gonzo
+          <br /> <br />
+          TRADE ALERT 6/25/2023: The third trade of the season. Josh Soler has
+          decided to leave the Blue Ballers and join the Bomb Squad. Ironic
+          because of how angry he was at his once again teammate for going to
+          the Bomb Squad. Justin Kotowtiz traded from the Bomb Squad, was
+          shocked and in utter disbelief at first. Here are some statements:
+          <br />
+          &quot;Well well well&quot; - Nick Talledo
+          <br />
+          &quot;Time to pull this team out of the mud&quot; - Josh Soler
+          <br />
+          &quot;Why is everyone leaving me?&quot; - Nicky
+          <br />
+          &quot;Finally on a team with some wins, getting traded was the best
+          thing that could happen&quot; - Justin Kotowitz
+          <br />
+          &quot;If we lose now, still not my fault&quot; - Stephen Aspromonte
+          <br /> <br />
           TRADE ALERT 6//12/2023: A second trade has been made! Andrew Gonzo and
           Nico have been traded from the Redskins to Miami Vice for Sergio and
           Deni. Many players though the trade was a prank and were not happy

@@ -16,36 +16,35 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
-              Week 5 of our league provided some intense matchups and surprising
-              outcomes. The first game featured a low-scoring battle between
-              Bomb Squad and The Clan, with The Clan emerging victorious with a
-              score of 39-25. Nick Venditti delivered an outstanding
-              performance, amassing 170 yards and scoring 3 touchdowns,
-              showcasing his exceptional skills. The Clan now boasts the most
-              wins, improving their record to 4-1 and solidifying their position
-              as a top contender.
-              <br />
-              <br />
-              In the second game, the Blue Ballers and the Bulls faced off. The
-              Blue Ballers had a promising start, leading 26-14 at halftime.
-              However, the Bulls staged an incredible comeback in the second
-              half, scoring 45 unanswered points and securing a dominant victory
-              with a final score of 59-26. The Bulls&apos; impressive
-              performance extended their winning streak to three games,
-              overcoming their initial two losses and showcasing their
-              resilience.
-              <br />
-              <br />
-              The final game of Week 5 featured the new Miami Vice against the
-              Redskins. It turned out to be a complete blowout, with the Miami
-              Vice displaying relentless offense and emerging victorious with an
-              astonishing final score of 78-46. Their remarkable offensive
-              display marked the highest scoring performance of the season thus
-              far. Meanwhile, the Redskins faced challenges and seemed to be
-              struggling as a team. Week 5 brought excitement, unexpected
-              outcomes, and notable performances. The league dynamics continue
-              to shift as some teams rise while others face setbacks. Stay tuned
-              for more thrilling matchups in the upcoming weeks!
+              Week 6 of our league brought about unexpected twists and exciting
+              matchups. The Blue Ballers, who had been leading by two scores,
+              suffered a surprising loss to Miami Vice with a final score of
+              49-68. Miami Vice displayed an outstanding offensive performance
+              in the second half, showcasing their unstoppable momentum. Their
+              offense appears to be in top form and shows no signs of slowing
+              down.
+              <br /> <br />
+              In a game that was initially predicted to be a blowout, the Bomb
+              Squad and the Bulls delivered a much closer contest. Despite the
+              Bulls&apos; defense having not allowed more than 26 points during
+              their winning streak, they conceded 49 points in this matchup.
+              However, the Bulls managed to secure three interceptions,
+              returning two of them for touchdowns. In the end, the Bulls were
+              able to secure the win with a score of 55-49, despite the
+              impressive performance by the Bomb Squad.
+              <br /> <br />A significant upset unfolded when the bottom-seeded
+              Redskins faced off against the top-seeded Clan. The Redskins, with
+              a healthy squad, put on an offensive masterclass against The Clan.
+              Quarterback Jonny showcased his skill and determination, proving
+              that he is far from finished. However, it should be noted that the
+              officiating performance by the referees was deemed one of the
+              worst in HFL history. The Clan expressed frustration over some
+              calls that did not go their way, which may have impacted the game.
+              Regardless, the Redskins emerged victorious with a score of 54-45.
+              Week 6 certainly delivered surprises and intense matchups, setting
+              the stage for a thrilling Week 7. Stay tuned as the league
+              continues to unfold with more exciting games and unexpected
+              outcomes!
             </p>
             <br />
           </div>
@@ -66,40 +65,40 @@ const HomePage = () => {
                 </thead>
                 <tbody>
                   <tr>
-                    <td>The Clan</td>
-                    <td>4-1</td>
-                    <td>224</td>
-                    <td>209</td>
-                  </tr>
-                  <tr>
                     <td>Miami Vice</td>
-                    <td>3-2</td>
-                    <td>299</td>
-                    <td>237</td>
+                    <td>4-2</td>
+                    <td>367</td>
+                    <td>286</td>
                   </tr>
                   <tr>
                     <td>Bulls</td>
-                    <td>3-2</td>
-                    <td>257</td>
-                    <td>204</td>
+                    <td>4-2</td>
+                    <td>312</td>
+                    <td>253</td>
+                  </tr>
+                  <tr>
+                    <td>The Clan</td>
+                    <td>4-2</td>
+                    <td>269</td>
+                    <td>263</td>
                   </tr>
                   <tr>
                     <td>Blue Ballers</td>
-                    <td>3-2</td>
-                    <td>196</td>
+                    <td>3-3</td>
+                    <td>312</td>
                     <td>244</td>
                   </tr>
                   <tr>
                     <td>Redskins</td>
-                    <td>1-4</td>
-                    <td>241</td>
-                    <td>303</td>
+                    <td>2-4</td>
+                    <td>295</td>
+                    <td>348</td>
                   </tr>
                   <tr>
                     <td>Bomb Squad</td>
-                    <td>1-4</td>
-                    <td>221</td>
-                    <td>285</td>
+                    <td>1-5</td>
+                    <td>270</td>
+                    <td>340</td>
                   </tr>
                 </tbody>
               </table>
@@ -176,16 +175,18 @@ const HomePage = () => {
                 <tr>
                   <td>Week 6</td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    Blue Ballers vs Miami Vice <br /> Bomb Squad vs Bulls <br />{" "}
+                    Redskins vs The Clan
                   </td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    49-68 <br /> 49-55 <br /> 54-45
                   </td>
                 </tr>
                 <tr>
                   <td>Week 7</td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    Redskins vs Miami Vice <br /> Blue Ballers vs Bomb Squad{" "}
+                    <br /> The Clan vs Bulls
                   </td>
                   <td>
                     TBD <br /> TBD <br /> TBD
