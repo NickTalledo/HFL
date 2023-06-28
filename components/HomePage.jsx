@@ -195,7 +195,8 @@ const HomePage = () => {
                 <tr>
                   <td>Week 8</td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    Redskins vs Blue Ballers <br /> The Clan vs Miami Vice{" "}
+                    <br /> Bulls vs Bomb Squad
                   </td>
                   <td>
                     TBD <br /> TBD <br /> TBD
@@ -204,7 +205,8 @@ const HomePage = () => {
                 <tr>
                   <td>Week 9</td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    Redskins vs Bomb Squad <br /> The Clan vs Blue Ballers{" "}
+                    <br /> Miami Vice vs Bulls
                   </td>
                   <td>
                     TBD <br /> TBD <br /> TBD
