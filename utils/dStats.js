@@ -237,7 +237,7 @@ export const dStats = [
     player: "Nick Dinicola",
     sacks: 0,
     tackles: 41,
-    picks: 5,
+    picks: 6,
   },
   {
     team: "Bomb Squad",
