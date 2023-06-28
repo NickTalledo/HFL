@@ -85,13 +85,13 @@ const HomePage = () => {
                   <tr>
                     <td>Blue Ballers</td>
                     <td>3-3</td>
-                    <td>312</td>
-                    <td>244</td>
+                    <td>267</td>
+                    <td>290</td>
                   </tr>
                   <tr>
                     <td>Redskins</td>
                     <td>2-4</td>
-                    <td>295</td>
+                    <td>296</td>
                     <td>348</td>
                   </tr>
                   <tr>
