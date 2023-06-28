@@ -73,7 +73,7 @@ const HomePage = () => {
                   <tr>
                     <td>Bulls</td>
                     <td>4-2</td>
-                    <td>312</td>
+                    <td>310</td>
                     <td>253</td>
                   </tr>
                   <tr>
@@ -92,7 +92,7 @@ const HomePage = () => {
                     <td>Redskins</td>
                     <td>2-4</td>
                     <td>296</td>
-                    <td>348</td>
+                    <td>347</td>
                   </tr>
                   <tr>
                     <td>Bomb Squad</td>
