@@ -16,35 +16,26 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
-              Week 6 of our league brought about unexpected twists and exciting
-              matchups. The Blue Ballers, who had been leading by two scores,
-              suffered a surprising loss to Miami Vice with a final score of
-              49-68. Miami Vice displayed an outstanding offensive performance
-              in the second half, showcasing their unstoppable momentum. Their
-              offense appears to be in top form and shows no signs of slowing
-              down.
+              Week 8 marked an intense stage in our league, leading us into the
+              final week before playoffs. The Clan emerged victorious in a close
+              battle against the struggling Blue Ballers, with a final score of
+              52-48. Despite a last-second touchdown by the Blue Ballers, they
+              were unable to seal the deal, extending their losing streak to
+              four games.
               <br /> <br />
-              In a game that was initially predicted to be a blowout, the Bomb
-              Squad and the Bulls delivered a much closer contest. Despite the
-              Bulls&apos; defense having not allowed more than 26 points during
-              their winning streak, they conceded 49 points in this matchup.
-              However, the Bulls managed to secure three interceptions,
-              returning two of them for touchdowns. In the end, the Bulls were
-              able to secure the win with a score of 55-49, despite the
-              impressive performance by the Bomb Squad.
-              <br /> <br />A significant upset unfolded when the bottom-seeded
-              Redskins faced off against the top-seeded Clan. The Redskins, with
-              a healthy squad, put on an offensive masterclass against The Clan.
-              Quarterback Jonny showcased his skill and determination, proving
-              that he is far from finished. However, it should be noted that the
-              officiating performance by the referees was deemed one of the
-              worst in HFL history. The Clan expressed frustration over some
-              calls that did not go their way, which may have impacted the game.
-              Regardless, the Redskins emerged victorious with a score of 54-45.
-              Week 6 certainly delivered surprises and intense matchups, setting
-              the stage for a thrilling Week 7. Stay tuned as the league
-              continues to unfold with more exciting games and unexpected
-              outcomes!
+              The Bomb Squad showcased their growing momentum by securing their
+              second consecutive win against the Redskins. Unfortunately, the
+              game ended early due to the Redskins&apos; quarterback suffering
+              an ankle injury before halftime, resulting in a final score of
+              34-18 in favor of the Bomb Squad.
+              <br /> <br />
+              The matchup between Miami Vice and the Bulls turned into a
+              high-scoring shootout. In the end, the Bulls managed to secure the
+              win with a score of 70-65, displaying their resilience and
+              offensive prowess. As we head into the final week before playoffs,
+              the competition intensifies, and teams strive to secure their
+              spots in the postseason. Stay tuned for the exciting matchups and
+              decisive moments that await us in Week 9!
             </p>
             <br />
           </div>
@@ -66,39 +57,39 @@ const HomePage = () => {
                 <tbody>
                   <tr>
                     <td>Miami Vice</td>
-                    <td>4-2</td>
-                    <td>367</td>
-                    <td>286</td>
-                  </tr>
-                  <tr>
-                    <td>Bulls</td>
-                    <td>4-2</td>
-                    <td>310</td>
-                    <td>253</td>
+                    <td>6-2</td>
+                    <td>513</td>
+                    <td>425</td>
                   </tr>
                   <tr>
                     <td>The Clan</td>
-                    <td>4-2</td>
-                    <td>269</td>
-                    <td>263</td>
+                    <td>6-2</td>
+                    <td>369</td>
+                    <td>350</td>
+                  </tr>
+                  <tr>
+                    <td>Bulls</td>
+                    <td>5-3</td>
+                    <td>419</td>
+                    <td>366</td>
                   </tr>
                   <tr>
                     <td>Blue Ballers</td>
-                    <td>3-3</td>
-                    <td>267</td>
-                    <td>290</td>
-                  </tr>
-                  <tr>
-                    <td>Redskins</td>
-                    <td>2-4</td>
-                    <td>296</td>
-                    <td>347</td>
+                    <td>3-5</td>
+                    <td>366</td>
+                    <td>402</td>
                   </tr>
                   <tr>
                     <td>Bomb Squad</td>
-                    <td>1-5</td>
-                    <td>270</td>
-                    <td>340</td>
+                    <td>3-5</td>
+                    <td>364</td>
+                    <td>409</td>
+                  </tr>
+                  <tr>
+                    <td>Redskins</td>
+                    <td>2-6</td>
+                    <td>383</td>
+                    <td>462</td>
                   </tr>
                 </tbody>
               </table>
@@ -189,24 +180,24 @@ const HomePage = () => {
                     <br /> The Clan vs Bulls
                   </td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    51-60 <br /> 81-69 <br /> 48-39
                   </td>
                 </tr>
                 <tr>
                   <td>Week 8</td>
                   <td>
-                    Redskins vs Blue Ballers <br /> The Clan vs Miami Vice{" "}
-                    <br /> Bulls vs Bomb Squad
+                    The Clan vs Blue Ballers <br /> Redskins vs Bomb Squad{" "}
+                    <br /> Bulls vs Miami Vice
                   </td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    52-48 <br /> 34-18 <br /> 70-65
                   </td>
                 </tr>
                 <tr>
                   <td>Week 9</td>
                   <td>
-                    Redskins vs Bomb Squad <br /> The Clan vs Blue Ballers{" "}
-                    <br /> Miami Vice vs Bulls
+                    Redskins vs Blue Ballers <br /> The Clan vs Miami Vice{" "}
+                    <br /> Bomb Squad vs Bulls
                   </td>
                   <td>
                     TBD <br /> TBD <br /> TBD
