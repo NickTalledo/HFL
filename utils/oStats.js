@@ -13,7 +13,7 @@ export const oStats = [
     player: "Anthony Perlongo",
     receptions: 67,
     yards: 1030,
-    touchdowns: 23,
+    touchdowns: 24,
   },
   {
     team: "Bomb Squad",
