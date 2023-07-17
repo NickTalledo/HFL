@@ -56,16 +56,16 @@ const HomePage = () => {
                 </thead>
                 <tbody>
                   <tr>
-                    <td>Miami Vice</td>
-                    <td>6-2</td>
-                    <td>513</td>
-                    <td>425</td>
-                  </tr>
-                  <tr>
                     <td>The Clan</td>
                     <td>6-2</td>
                     <td>369</td>
                     <td>350</td>
+                  </tr>
+                  <tr>
+                    <td>Miami Vice</td>
+                    <td>5-3</td>
+                    <td>513</td>
+                    <td>425</td>
                   </tr>
                   <tr>
                     <td>Bulls</td>
