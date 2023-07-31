@@ -4,16 +4,16 @@ export const oStats = [
   {
     team: "Miami Vice",
     player: "Andrew Gonzo",
-    receptions: 49,
-    yards: 781,
-    touchdowns: 16,
+    receptions: 55,
+    yards: 876,
+    touchdowns: 18,
   },
   {
     team: "Miami Vice",
     player: "Anthony Perlongo",
-    receptions: 67,
-    yards: 1030,
-    touchdowns: 24,
+    receptions: 79,
+    yards: 1158,
+    touchdowns: 27,
   },
   {
     team: "Bomb Squad",
@@ -25,9 +25,9 @@ export const oStats = [
   {
     team: "The Clan",
     player: "Matt Rossi",
-    receptions: 54,
-    yards: 703,
-    touchdowns: 17,
+    receptions: 68,
+    yards: 821,
+    touchdowns: 21,
   },
   {
     team: "Bomb Squad",
@@ -67,9 +67,9 @@ export const oStats = [
   {
     team: "Blue Ballers",
     player: "Danny Gonzo",
-    receptions: 69,
-    yards: 670,
-    touchdowns: 14,
+    receptions: 79,
+    yards: 752,
+    touchdowns: 15,
   },
   {
     team: "The Clan",
@@ -95,9 +95,9 @@ export const oStats = [
   {
     team: "The Clan",
     player: "Mike Decanio",
-    receptions: 15,
-    yards: 144,
-    touchdowns: 4,
+    receptions: 24,
+    yards: 254,
+    touchdowns: 5,
   },
   {
     team: "Bomb Squad",
@@ -109,16 +109,16 @@ export const oStats = [
   {
     team: "The Clan",
     player: "Andrew Rossi",
-    receptions: 32,
-    yards: 399,
+    receptions: 36,
+    yards: 452,
     touchdowns: 7,
   },
   {
     team: "Blue Ballers",
     player: "Andrew Aspromonte",
-    receptions: 15,
-    yards: 196,
-    touchdowns: 3,
+    receptions: 17,
+    yards: 214,
+    touchdowns: 4,
   },
   {
     team: "Bulls",
@@ -158,9 +158,9 @@ export const oStats = [
   {
     team: "Miami Vice",
     player: "Vincent Nastri",
-    receptions: 41,
-    yards: 565,
-    touchdowns: 12,
+    receptions: 47,
+    yards: 635,
+    touchdowns: 14,
   },
   {
     team: "Redskins",
@@ -172,8 +172,8 @@ export const oStats = [
   {
     team: "Miami Vice",
     player: "Nico",
-    receptions: 55,
-    yards: 504,
+    receptions: 61,
+    yards: 544,
     touchdowns: 10,
   },
   {

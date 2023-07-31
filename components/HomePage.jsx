@@ -16,26 +16,22 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
-              Week 8 marked an intense stage in our league, leading us into the
-              final week before playoffs. The Clan emerged victorious in a close
-              battle against the struggling Blue Ballers, with a final score of
-              52-48. Despite a last-second touchdown by the Blue Ballers, they
-              were unable to seal the deal, extending their losing streak to
-              four games.
+              Congratulations on completing the first round of playoffs! The
+              Bulls showcased their offensive dominance, securing a convincing
+              victory over Miami Vice with a score of 73-53. They managed to
+              maintain a lead throughout the game, solidifying their spot in the
+              championship match. With their impressive performance, the Bulls
+              are now officially contenders for the championship title.
               <br /> <br />
-              The Bomb Squad showcased their growing momentum by securing their
-              second consecutive win against the Redskins. Unfortunately, the
-              game ended early due to the Redskins&apos; quarterback suffering
-              an ankle injury before halftime, resulting in a final score of
-              34-18 in favor of the Bomb Squad.
+              In a regrettable turn of events, the Blue Ballers were forced to
+              forfeit their playoff match due to injuries and availability
+              issues. As a result, the Bomb Squad advances to the next round and
+              will face off against the first-seeded team, The Clan.
               <br /> <br />
-              The matchup between Miami Vice and the Bulls turned into a
-              high-scoring shootout. In the end, the Bulls managed to secure the
-              win with a score of 70-65, displaying their resilience and
-              offensive prowess. As we head into the final week before playoffs,
-              the competition intensifies, and teams strive to secure their
-              spots in the postseason. Stay tuned for the exciting matchups and
-              decisive moments that await us in Week 9!
+              As the playoffs continue, the competition promises to be intense,
+              with teams vying for the ultimate victory. Best of luck to all the
+              remaining teams as they prepare for their upcoming matchups and
+              strive for the championship crown!
             </p>
             <br />
           </div>
@@ -57,39 +53,39 @@ const HomePage = () => {
                 <tbody>
                   <tr>
                     <td>The Clan</td>
-                    <td>6-2</td>
-                    <td>369</td>
-                    <td>350</td>
+                    <td>7-2</td>
+                    <td>429</td>
+                    <td>405</td>
                   </tr>
                   <tr>
                     <td>Miami Vice</td>
-                    <td>5-3</td>
-                    <td>513</td>
-                    <td>425</td>
+                    <td>6-3</td>
+                    <td>568</td>
+                    <td>485</td>
                   </tr>
                   <tr>
                     <td>Bulls</td>
-                    <td>5-3</td>
+                    <td>5-3-1</td>
                     <td>419</td>
                     <td>366</td>
                   </tr>
                   <tr>
                     <td>Blue Ballers</td>
-                    <td>3-5</td>
-                    <td>366</td>
-                    <td>402</td>
+                    <td>4-5</td>
+                    <td>424</td>
+                    <td>445</td>
                   </tr>
                   <tr>
                     <td>Bomb Squad</td>
-                    <td>3-5</td>
+                    <td>3-5-1</td>
                     <td>364</td>
                     <td>409</td>
                   </tr>
                   <tr>
                     <td>Redskins</td>
-                    <td>2-6</td>
-                    <td>383</td>
-                    <td>462</td>
+                    <td>2-7</td>
+                    <td>426</td>
+                    <td>520</td>
                   </tr>
                 </tbody>
               </table>
@@ -200,23 +196,23 @@ const HomePage = () => {
                     <br /> Bomb Squad vs Bulls
                   </td>
                   <td>
-                    TBD <br /> TBD <br /> TBD
+                    43-58 <br /> 60-55 <br /> 0-0
                   </td>
                 </tr>
                 <tr>
                   <td>Playoffs 1</td>
                   <td>
-                    1st seed <br /> 2nd seed vs 3rd seed <br /> 4th seed vs 5th
-                    seed
+                    The Clan <br /> Bulls vs Miami Vice
+                    <br /> Bomb Squad vs Blue Ballers
                   </td>
                   <td>
-                    BYE <br /> TBD <br /> TBD
+                    BYE <br /> 73-53 <br /> 0-DQ
                   </td>
                 </tr>
                 <tr>
                   <td>Playoffs 2</td>
                   <td>
-                    1st seed vs 4th/5th seed winner <br /> 2nd/3rd seed winner
+                    The Clan vs Bomb Squad <br /> Bulls
                   </td>
                   <td>
                     TBD <br /> BYE
