@@ -16,22 +16,13 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
-              Congratulations on completing the first round of playoffs! The
-              Bulls showcased their offensive dominance, securing a convincing
-              victory over Miami Vice with a score of 73-53. They managed to
-              maintain a lead throughout the game, solidifying their spot in the
-              championship match. With their impressive performance, the Bulls
-              are now officially contenders for the championship title.
-              <br /> <br />
-              In a regrettable turn of events, the Blue Ballers were forced to
-              forfeit their playoff match due to injuries and availability
-              issues. As a result, the Bomb Squad advances to the next round and
-              will face off against the first-seeded team, The Clan.
-              <br /> <br />
-              As the playoffs continue, the competition promises to be intense,
-              with teams vying for the ultimate victory. Best of luck to all the
-              remaining teams as they prepare for their upcoming matchups and
-              strive for the championship crown!
+              The Clan and Bulls face off in the Championship. A memorable game
+              played in harsh weather. The newly crowned champions are the
+              Bulls! Redbull leading the offense with 5 rushing touchdowns. The
+              Bulls won 56-44. Rumor has it Andrew Rossi let down his team time
+              after time and is to blame for The Clan&apos;s loss. Now that the
+              summer season is over, we look forward to the Fall season!
+              Congratulations to the Bulls, the 2023 Summer HFL Champions!
             </p>
             <br />
           </div>
@@ -215,14 +206,14 @@ const HomePage = () => {
                     The Clan vs Bomb Squad <br /> Bulls
                   </td>
                   <td>
-                    TBD <br /> BYE
+                    34-31 <br /> BYE
                   </td>
                 </tr>
                 <tr>
                   <td>Championship</td>
-                  <td>TBD</td>
+                  <td>The Clan vs Bulls</td>
                   <td>
-                    TBD <br />
+                    44-56 <br />
                   </td>
                 </tr>
               </tbody>
