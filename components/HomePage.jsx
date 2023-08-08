@@ -16,13 +16,26 @@ const HomePage = () => {
         <div className="text-table1-container">
           <div className="text-container">
             <p>
-              The Clan and Bulls face off in the Championship. A memorable game
-              played in harsh weather. The newly crowned champions are the
-              Bulls! Redbull leading the offense with 5 rushing touchdowns. The
-              Bulls won 56-44. Rumor has it Andrew Rossi let down his team time
-              after time and is to blame for The Clan&apos;s loss. Now that the
-              summer season is over, we look forward to the Fall season!
-              Congratulations to the Bulls, the 2023 Summer HFL Champions!
+              The championship has concluded with an exciting showdown between
+              The Clan and the Bulls. Despite the challenging weather
+              conditions, the championship game was truly memorable. In the end,
+              the Bulls emerged victorious, claiming the title of champions!
+              Redbull&apos;s outstanding performance on offense, including 5
+              rushing touchdowns, played a pivotal role in their success. The
+              final score stood at 56-44 in favor of the Bulls.
+              <br />
+              <br />
+              Rumors have circulated suggesting that Andrew Rossi&apos;s
+              performance may have contributed to The Clan&apos;s loss,
+              disappointing their team multiple times throughout the game. With
+              the summer season coming to an end, anticipation builds for the
+              upcoming Fall season.
+              <br />
+              <br />A heartfelt congratulations to the Bulls for their
+              remarkable achievement as the 2023 Summer HFL Champions! Their
+              hard work, determination, and exceptional teamwork have led them
+              to this well-deserved victory. Here&apos;s to an exciting Fall
+              season ahead!
             </p>
             <br />
           </div>
